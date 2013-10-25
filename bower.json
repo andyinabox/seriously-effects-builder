@@ -1,0 +1,8 @@
+{
+  "name": "ShaderBuilder",
+  "version": "0.0.1",
+  "dependencies": {
+    "seriouslyjs": "https://github.com/brianchirls/Seriously.js/archive/master.zip",
+    "requirejs": "~2.1.9"
+  }
+}

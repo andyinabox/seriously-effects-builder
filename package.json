@@ -1,0 +1,15 @@
+{
+  "title": "Seriously.js Effect Builder",
+  "name": "seriously-effect-builder",
+  "description": "A tool for buildin shader effects for Seriously.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "Andy Dayton",
+    "email": "amdayton@gmail.com"
+  },
+  "devDependencies": {
+    "bower": "~1.2.7",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
